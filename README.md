@@ -1,4 +1,28 @@
-<h2 align="left">Hola 👋! soy José, desarrollador web de Venezuela 🇻🇪. Apasionado por transformar ideas 💙 en código funcional y atractivo 💻.</h2>
+<style>
+  .typewriter {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.6em;
+    color: #fff;
+    text-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7, 0 0 30px #a855f7;
+    border-right: 3px solid #a855f7;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+    animation: typing 4s steps(50, end) forwards, blink .8s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: #a855f7 }
+  }
+</style>
+
+<h2 align="left" class="typewriter">Hola 👋! soy José, desarrollador web de Venezuela 🇻🇪. Apasionado por transformar ideas 💙 en código funcional y atractivo 💻.</h2>
 
 ###
 

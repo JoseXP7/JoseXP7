@@ -1,28 +1,4 @@
-<style>
-  .typewriter {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.6em;
-    color: #fff;
-    text-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7, 0 0 30px #a855f7;
-    border-right: 3px solid #a855f7;
-    white-space: nowrap;
-    overflow: hidden;
-    width: 0;
-    animation: typing 4s steps(50, end) forwards, blink .8s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink {
-    from, to { border-color: transparent }
-    50% { border-color: #a855f7 }
-  }
-</style>
-
-<h2 align="left" class="typewriter">Hola 👋! soy José, desarrollador web de Venezuela 🇻🇪. Apasionado por transformar ideas 💙 en código funcional y atractivo 💻.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7407F7&background=FF00821A&width=522&lines=Hola+%F0%9F%91%8B!+soy+Jos%C3%A9%2C+desarrollador+web+de+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Apasionado+por+transformar+ideas+%F0%9F%92%99+en+c%C3%B3digo+funcional+y+atractivo+%F0%9F%92%BB.)](https://git.io/typing-svg)
 
 ###
 
